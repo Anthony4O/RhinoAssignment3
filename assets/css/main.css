@@ -2676,6 +2676,11 @@ input, select, textarea {
 			transform: scale(1.05);
 		}
 
+		image {
+			width: 50%
+			h
+		}
+
 /* Actions */
 
 	ul.actions {
